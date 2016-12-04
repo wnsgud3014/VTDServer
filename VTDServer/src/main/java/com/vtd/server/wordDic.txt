@@ -1,0 +1,16 @@
+﻿
+v 이동 move
+v 움직이 move
+v 가 move
+v 오르 up
+n 위 top
+n 오른쪽 right
+n 왼쪽 left
+n 우측 right
+n 좌측 left
+n 오른편 right
+n 왼편 left
+v 내리 down
+n 아래 bottom
+v 날 move
+v 꺽 move
